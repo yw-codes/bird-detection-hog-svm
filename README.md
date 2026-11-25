@@ -47,6 +47,7 @@ F1 0.449 (P 0.533, R 0.387) and mean count error 3.69 birds per image, at about 
 AP falls as scenes get more crowded: 0.618 for 1–5 birds, 0.402 for 6–20, 0.340 for 21–50.
 
 For comparison, the team's morphology baseline reached 0.020 test mAP@0.5 and Faster R-CNN 0.899.
+The full comparison, including robustness and limited-label studies, is in the [team report](report/team_report.pdf).
 
 | Success (all 5 birds found) | Failure (long shadows) |
 |---|---|
